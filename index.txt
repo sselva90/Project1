@@ -1,0 +1,2 @@
+This is newly created file for new git and github project.
+Project name - Project1
